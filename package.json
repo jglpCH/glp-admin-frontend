@@ -1,0 +1,14 @@
+{
+  "name": "glp-admin-frontend",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "https://github.com/jglpCH/glp-admin-frontend",
+  "author": "Benjamin Zumbrunn <benzumbrunn@gmail.com>",
+  "license": "UNLICENSED",
+  "private": false,
+  "dependencies": {
+    "path": "^0.12.7",
+    "webpack": "^4.27.1",
+    "webpack-dev-server": "^3.1.10"
+  }
+}
